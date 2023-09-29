@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:home_rent_app/presentation/screens/product_details_screen.dart';
-import 'package:home_rent_app/presentation/widgets/text_widget.dart';
 import 'package:provider/provider.dart';
 
 import '../models/product_model.dart';
+import '../screens/product_details_screen.dart';
+import 'text_widget.dart';
 
 class NearFromYouWidget extends StatelessWidget {
   const NearFromYouWidget({super.key});

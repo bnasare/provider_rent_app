@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:home_rent_app/presentation/models/best_for_you_model.dart';
+
+import '../models/best_for_you_model.dart';
 
 class BestForYouProductProvider with ChangeNotifier {
   List<BestForYouProductModel> get getBFYProducts {

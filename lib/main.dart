@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:home_rent_app/presentation/providers/best_for_you_provider.dart';
-import 'package:home_rent_app/presentation/screens/home_screen.dart';
 import 'package:provider/provider.dart';
 
+import 'presentation/providers/best_for_you_provider.dart';
 import 'presentation/providers/product_provider.dart';
+import 'presentation/screens/home_screen.dart';
 import 'presentation/screens/product_details_screen.dart';
 
 void main() {

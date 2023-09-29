@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:home_rent_app/presentation/models/best_for_you_model.dart';
 import 'package:provider/provider.dart';
 
+import '../models/best_for_you_model.dart';
 import 'text_widget.dart';
 
 class BestForYouWidget extends StatelessWidget {
